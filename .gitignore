@@ -1,0 +1,6 @@
+# Java Class
+**/*.Class
+
+# Eclipse Workspace
+.metadata
+/bin/
