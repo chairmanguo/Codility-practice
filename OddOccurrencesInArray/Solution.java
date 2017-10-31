@@ -36,8 +36,8 @@ class Solution {
         Scanner scan = new Scanner(System.in);
         
         //Decide the number of elements
-		System.out.println("Enter how many elements: ");
-		int N = Integer.parseInt(scan.nextLine());
+	System.out.println("Enter how many elements: ");
+	int N = Integer.parseInt(scan.nextLine());
         if (N < 1 || N > 1000000) {
             System.out.println("Input out of bound!");
             return;
